@@ -1,0 +1,34 @@
+.ML,.Van,.Shakuntala,.John{
+    filter: grayscale(100%);
+}
+img:hover{
+    filter: saturate(100%);
+}
+
+body{
+    width: 800px;
+    height: 800px;
+    margin-left: 300px;
+    background-color: rgb(168, 175, 190);
+    
+}
+
+#Icon{
+    position: absolute;
+    margin-left: -970px;
+    margin-top: -280px ;
+    width: 60px;
+    height: 60px;
+}
+
+#title{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    color: black;
+    text-align: center;
+    width: 100px;
+    position: absolute;
+    margin-left:-260px ;
+    margin-top: -515px;
+
+}
