@@ -1,15 +1,15 @@
 .ML,.Van,.Shakuntala,.John{
-    filter: grayscale(100%);
+    filter: saturate(100%);
 }
 img:hover{
-    filter: saturate(100%);
+    filter: grayscale(100%);
 }
 
 body{
     width: 800px;
     height: 800px;
     margin-left: 300px;
-    background-color: rgb(168, 175, 190);
+    background-color: rgb(173, 173, 172);
     
 }
 
@@ -29,6 +29,7 @@ body{
     width: 100px;
     position: absolute;
     margin-left:-260px ;
-    margin-top: -515px;
+    margin-top: -532px;
+    line-height: 15px;
 
 }
